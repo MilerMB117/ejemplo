@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EjemploApp</title>
+</head>
+<body>
+<h1>Hola!</h1>
+<h2A> Clase : {{clase}}</h2>
+    {% if estudiantes %}
+<ul>
+    {% for estudiante in estudiantes %}
+    <li>{{ estudiante.nombre }}</li>
+    <li>{{ estudiante.id }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+</body>
+</html>
