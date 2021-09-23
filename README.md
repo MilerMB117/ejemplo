@@ -85,7 +85,7 @@ Para que nuestra aplicación muestre vistas HTML en lugar de una cadena de texto
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Django University App</title>
+    <title>ejemploApp</title>
 </head>
 <body>
 <h1>Hola!</h1>
