@@ -1,5 +1,8 @@
-# django con Python
+# Sesion 2: Django con Python
 Tutorial de Django
+# Integrantes
+Miler Menjure
+Daniel Gomez
 
 
 ### PASO 1: Instala Django desde cmd 
