@@ -146,7 +146,7 @@ Accede al intérprete interactivo de Django escribiendo el siguiente comando en 
 Una vez dentro, ya puedes comenzar a crear y consultar registros.
    ```python
 	>>> from ejemploApp.models import Student
-	>>> estudiante1 = Student(nombre="Julio", apellidos="Ammorrortu Jainaga", edad=22, email="julio@mail.com")
+	>>> estudiante1 = Student(nombre="Julio", apellidos="Perez Perezcito", edad=22, email="julio@mail.com")
 	>>> estudiante1.save()
 	# Django le asigna un id.
 	>>> estudiante1.id
